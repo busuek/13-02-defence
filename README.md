@@ -13,7 +13,7 @@
 
 *Исходные данные:*
 
-![](./img/1.jpeg)
+[![](./img/1.jpeg)](https://github.com/vOrzee/12-2-defence-host/blob/main/img/1.jpeg?raw=true)
 
 *Зашифрованные данные:*
 
